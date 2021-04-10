@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FusionIIIT",
+    "\\FusionIIIT\\applications",
+    "\\FusionIIIT\\applications\\academic_information",
+    "\\FusionIIIT\\applications\\filetracking",
+    "\\FusionIIIT\\applications\\ps1",
+    "\\FusionIIIT\\applications\\ps1\\migrations",
+    "\\FusionIIIT\\templates",
+    "\\FusionIIIT\\templates\\filetracking",
+    "\\FusionIIIT\\templates\\ps1"
+  ],
+  "SelectedNode": "\\FusionIIIT\\applications\\filetracking\\models.py",
+  "PreviewInSolutionExplorer": false
+}
